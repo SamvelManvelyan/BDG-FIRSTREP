@@ -1,0 +1,11 @@
+
+
+cordinat_x = 12.7 #
+cordinat_y = 18.5
+point1 = ( cordinat_x , cordinat_y)
+point2 = ( 10,8.5)
+points = (point1 , point2)
+print(points)
+
+is_open = True
+
